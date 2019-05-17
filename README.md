@@ -1,3 +1,7 @@
+# Moved
+
+This tool has now migrated to github.com/gojek/xp and will be maintained there going forward.
+
 # Introduction
 
 `xp` is a tool created to make practising extreme programming easier.
