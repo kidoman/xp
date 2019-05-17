@@ -1,6 +1,6 @@
 # Moved
 
-This tool has now migrated to [github.com/gojek/xp](github.com/gojek/xp) and will be maintained there going forward.
+This tool has now migrated to [github.com/gojek/xp](https://github.com/gojek/xp) and will be maintained there going forward.
 
 # Introduction
 
